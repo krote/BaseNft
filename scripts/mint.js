@@ -36,7 +36,6 @@ async function mintNFT() {
                     }
                 });
             }
-            console.log("row36");
         })
         .catch( (err) => {
             console.log("Promise failed:", err);
