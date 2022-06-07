@@ -24,3 +24,7 @@ npx hardhat run --network localhost scripts/mint.js
 // check
 npx hardhat run --network localhost scripts/view.js
 ```
+
+## Link
+- [Hardhat Documentation](https://hardhat.org/getting-started)
+- [web3.js Documentation](https://web3js.readthedocs.io/en/v1.7.3/index.html)
